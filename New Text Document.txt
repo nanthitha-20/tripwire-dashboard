@@ -1,5 +1,0 @@
-names
-regno
-title
-abstract
-o/p ss
